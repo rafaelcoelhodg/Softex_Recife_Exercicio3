@@ -1,0 +1,15 @@
+Softex - Lógica de Programação e Orientação a Objetos
+
+Exercício Desenvolvimento 3
+
+1 - As variáveis que serão utilizadas são do tipo: inteiro, real e caractere.
+
+2 - Nome, CPF, RG : inteiro
+    Altura        : real
+    Endereço      : caractere
+
+3 - Nome <- José Almeida da Silva
+    CPF <- 12345678900
+    RG <- 9517530
+    Altura <- 1,78
+    Endereço <- Rua A, 380 - Centro - Recife/PE
